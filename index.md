@@ -30,6 +30,7 @@ feature_row:
   - image_path: /assets/images/cutedog.png
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+---
 
 {% include feature_row id="intro" type="center" %}
 
