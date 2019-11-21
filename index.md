@@ -1,7 +1,7 @@
 ---
-title: "Splash Page"
+title: "Virus Visualization"
 layout: splash
-permalink: /splash-page/
+permalink: /
 date: 2019-11-20T11:48:41-04:00
 header:
   overlay_color: "#000"
