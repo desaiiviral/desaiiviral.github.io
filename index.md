@@ -1,5 +1,5 @@
 ---
-title: "Virus Visualization"
+title: "Home"
 layout: splash
 permalink: /
 date: 2019-11-20T11:48:41-04:00
