@@ -10,10 +10,10 @@ header:
   caption: "Photo credit: [**Her.ie**](https://www.her.ie/life/worlds-cutest-dog-died-broken-heart-446157)"
 excerpt: "Welcome to my blog, digging into sports data. If you have any questions message me on twitter @ViralViz"
 feature_row:
-  - image_path: /assets/images/cutedog.png
+  - image_path: /assets/images/% of Rush Direction Ran Through Week 11.png
     alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "Team Rush Direction"
+    excerpt: "Take a look at which direction teams like to run."
   - image_path: /assets/images/cutedog.png
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
