@@ -14,7 +14,7 @@ feature_row:
     alt: "placeholder image 1"
     title: "Team Rush Direction"
     excerpt: "Take a look at which direction teams like to run."
-    url: "#nfl/Team-Rush-Direction/'
+    url: "#nfl/Team-Rush-Direction/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/cutedog.png
