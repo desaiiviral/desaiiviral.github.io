@@ -52,6 +52,7 @@ David Johnson | Mark Ingram
 ![RB-PPR](/assets/images/RB-PPR.png)
 
 <div class="datatable-begin"></div>
+
 Predicted Tier 1 Players (No Particular Order)    | Top N Players Ordered
 ------------------------------------------------- | ---------------------
 Alvin Kamara | Christian McCaffrey      
@@ -62,11 +63,13 @@ Ezekiel Elliott | Derrick Henry
 James Conner | Dalvin Cook
 David Johnson | Leonard Fournette
 Tarik Cohen | Nick Chubb
+
 <div class="datatable-end"></div>
 
 ![WR-STD](/assets/images/WR-STD.png)
 
 <div class="datatable-begin"></div>
+
 Predicted Tier 1 Players (No Particular Order)    | Top N Players Ordered
 ------------------------------------------------- | ---------------------
 Davante Adams | Michael thomas       
@@ -83,11 +86,13 @@ Robert Woods | Keenan Allen
 Keenan Allen | Allen Robinson
 Amari Cooper | Julian Edelman
 Jarvis Landry | Jarvis Landry
+
 <div class="datatable-end"></div>
 
 ![WR-PPR](/assets/images/WR-PPR.png)
 
 <div class="datatable-begin"></div>
+
 Predicted Tier 1 Players (No Particular Order)    | Top N Players Ordered
 ------------------------------------------------- | ---------------------
 Davante Adams | Michael Thomas      
@@ -99,11 +104,13 @@ Julio Jones | Keenan Allen
 Michael Thomas | Julian Edelman
 JuJu Smith-Schuster | Allen Robinson
 Mike Evans | Kenny Golladay
+
 <div class="datatable-end"></div>
 
 ![TE-STD](/assets/images/TE-STD.png)
 
 <div class="datatable-begin"></div>
+
 Predicted Tier 1 Players (No Particular Order)    | Top N Players Ordered
 ------------------------------------------------- | ---------------------
 Travis Kelce | Travis Kelce       
@@ -111,11 +118,13 @@ Zach Ertz | Mark Andrews
 George Kittle | George Kittle
 Eric Ebron | Darren Waller
 Trey Burton | Zach Ertz
+
 <div class="datatable-end"></div>
 
 ![TE-PPR](/assets/images/TE-PPR.png)
 
 <div class="datatable-begin"></div>
+
 Predicted Tier 1 Players (No Particular Order)    | Top N Players Ordered
 ------------------------------------------------- | ---------------------
 Travis Kelce | Travis Kelce     
@@ -123,6 +132,7 @@ Zach Ertz | George Kittle
 George Kittle | Darren Waller
 Eric Ebron | Zach Ertz
 Trey Burton | Mark Andrews
+
 <div class="datatable-end"></div>
 
 [My twitter]: https://twitter.com/ViralVis
