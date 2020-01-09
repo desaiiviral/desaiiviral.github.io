@@ -11,6 +11,6 @@ layout: splash
 
 Take a look at the direction teams like to run their running plays.
 
-[Running Back Rush direction Week 11](/assets/images/QB-PPR.png)
+![QB-PPR](/assets/images/QB-PPR.png)
 
 [My twitter]: https://twitter.com/ViralVis
