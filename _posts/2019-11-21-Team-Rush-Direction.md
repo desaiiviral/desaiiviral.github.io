@@ -11,6 +11,6 @@ layout: splash
 
 Take a look at the direction teams like to run their running plays.
 
-[Running Back Rush direction Week 11](/assets/images/% of Rush Direction Ran Through Week 11.png)
+![Running Back Rush direction Week 11](/assets/images/Rush_Direction_11.png)
 
 [My twitter]: https://twitter.com/ViralVis
