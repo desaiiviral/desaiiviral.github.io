@@ -35,6 +35,7 @@ Caw Newton   | Kyler Murray
 ![RB-STD](/assets/images/RB-STD.png)
 
 <div class="datatable-begin"></div>
+
 Predicted Tier 1 Players (No Particular Order)    | Top N Players Ordered
 ------------------------------------------------- | ---------------------
 Todd Gurley | Christian McCaffrey      
@@ -45,6 +46,7 @@ Ezekiel Elliott | Dalvin Cook
 Melvin Gordon | Nick Chubb
 James Conner | Austin Ekeler
 David Johnson | Mark Ingram
+
 <div class="datatable-end"></div>
 
 ![RB-PPR](/assets/images/RB-PPR.png)
