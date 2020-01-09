@@ -19,7 +19,7 @@ Using this idea I wanted to build a fantasy football team that would hopefully g
 
 <div class="datatable-begin"></div>
 
-Predicted Tier 1 Players (No Particular Order)    | Top N Players Ordered
+Predicted Tier 1 Players (No Particular Order)    | Top 8 Players Ordered
 ------------------------------------------------- | ---------------------
 Patrick Mahomes  | Lamar Jackson      
 Dak Prescott | Dak Prescott 
@@ -36,7 +36,7 @@ Caw Newton   | Kyler Murray
 
 <div class="datatable-begin"></div>
 
-Predicted Tier 1 Players (No Particular Order)    | Top N Players Ordered
+Predicted Tier 1 Players (No Particular Order)    | Top 8 Players Ordered
 ------------------------------------------------- | ---------------------
 Todd Gurley | Christian McCaffrey      
 Alvin Kamara | Derrick Henry
@@ -53,7 +53,7 @@ David Johnson | Mark Ingram
 
 <div class="datatable-begin"></div>
 
-Predicted Tier 1 Players (No Particular Order)    | Top N Players Ordered
+Predicted Tier 1 Players (No Particular Order)    | Top 8 Players Ordered
 ------------------------------------------------- | ---------------------
 Alvin Kamara | Christian McCaffrey      
 Saquon Barkley | Aaron Jones
@@ -70,9 +70,9 @@ Tarik Cohen | Nick Chubb
 
 <div class="datatable-begin"></div>
 
-Predicted Tier 1 Players (No Particular Order)    | Top N Players Ordered
+Predicted Tier 1 Players (No Particular Order)    | Top 14 Players Ordered
 ------------------------------------------------- | ---------------------
-Davante Adams | Michael thomas       
+Davante Adams | Michael Thomas       
 Antonio Brown | Chris Godwin
 Tyreek Hill | Kenny Golladay
 DeAndre Hopkins | Cooper Kupp
@@ -93,7 +93,7 @@ Jarvis Landry | Jarvis Landry
 
 <div class="datatable-begin"></div>
 
-Predicted Tier 1 Players (No Particular Order)    | Top N Players Ordered
+Predicted Tier 1 Players (No Particular Order)    | Top 9 Players Ordered
 ------------------------------------------------- | ---------------------
 Davante Adams | Michael Thomas      
 Antonio Brown | Chris Godwin
@@ -111,7 +111,7 @@ Mike Evans | Kenny Golladay
 
 <div class="datatable-begin"></div>
 
-Predicted Tier 1 Players (No Particular Order)    | Top N Players Ordered
+Predicted Tier 1 Players (No Particular Order)    | Top 5 Players Ordered
 ------------------------------------------------- | ---------------------
 Travis Kelce | Travis Kelce       
 Zach Ertz | Mark Andrews
@@ -125,7 +125,7 @@ Trey Burton | Zach Ertz
 
 <div class="datatable-begin"></div>
 
-Predicted Tier 1 Players (No Particular Order)    | Top N Players Ordered
+Predicted Tier 1 Players (No Particular Order)    | Top 5 Players Ordered
 ------------------------------------------------- | ---------------------
 Travis Kelce | Travis Kelce     
 Zach Ertz | George Kittle
