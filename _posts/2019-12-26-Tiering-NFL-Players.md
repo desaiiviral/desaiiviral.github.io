@@ -34,15 +34,93 @@ Caw Newton   | Kyler Murray
 
 ![RB-STD](/assets/images/RB-STD.png)
 
+<div class="datatable-begin"></div>
+Predicted Tier 1 Players (No Particular Order)    | Top N Players Ordered
+------------------------------------------------- | ---------------------
+Todd Gurley | Christian McCaffrey      
+Alvin Kamara | Derrick Henry
+Saquon Barkley | Aaron Jones
+Christian McCaffrey | Ezekiel Elliott
+Ezekiel Elliott | Dalvin Cook
+Melvin Gordon | Nick Chubb
+James Conner | Austin Ekeler
+David Johnson | Mark Ingram
+<div class="datatable-end"></div>
+
 ![RB-PPR](/assets/images/RB-PPR.png)
+
+<div class="datatable-begin"></div>
+Predicted Tier 1 Players (No Particular Order)    | Top N Players Ordered
+------------------------------------------------- | ---------------------
+Alvin Kamara | Christian McCaffrey      
+Saquon Barkley | Aaron Jones
+Todd Gurley | Ezekiel Elliott
+Christian McCaffrey | Austin Ekeler
+Ezekiel Elliott | Derrick Henry
+James Conner | Dalvin Cook
+David Johnson | Leonard Fournette
+Tarik Cohen | Nick Chubb
+<div class="datatable-end"></div>
 
 ![WR-STD](/assets/images/WR-STD.png)
 
+<div class="datatable-begin"></div>
+Predicted Tier 1 Players (No Particular Order)    | Top N Players Ordered
+------------------------------------------------- | ---------------------
+Davante Adams | Michael thomas       
+Antonio Brown | Chris Godwin
+Tyreek Hill | Kenny Golladay
+DeAndre Hopkins | Cooper Kupp
+Adam Thielen | Julio Jones
+Julio Jones | Devante Parker
+Michael Thomas | Amari Cooper
+JuJu Smith-Schuster | Mike Evans
+Mike Evans | A.J. Brown
+Stefon Diggs | DeAndre Hopkins
+Robert Woods | Keenan Allen
+Keenan Allen | Allen Robinson
+Amari Cooper | Julian Edelman
+Jarvis Landry | Jarvis Landry
+<div class="datatable-end"></div>
+
 ![WR-PPR](/assets/images/WR-PPR.png)
+
+<div class="datatable-begin"></div>
+Predicted Tier 1 Players (No Particular Order)    | Top N Players Ordered
+------------------------------------------------- | ---------------------
+Davante Adams | Michael Thomas      
+Antonio Brown | Chris Godwin
+Tyreek Hill | Julio Jones
+DeAndre Hopkins | Cooper Kupp
+Adam Thielen | DeAndre Hopkins
+Julio Jones | Keenan Allen
+Michael Thomas | Julian Edelman
+JuJu Smith-Schuster | Allen Robinson
+Mike Evans | Kenny Golladay
+<div class="datatable-end"></div>
 
 ![TE-STD](/assets/images/TE-STD.png)
 
+<div class="datatable-begin"></div>
+Predicted Tier 1 Players (No Particular Order)    | Top N Players Ordered
+------------------------------------------------- | ---------------------
+Travis Kelce | Travis Kelce       
+Zach Ertz | Mark Andrews
+George Kittle | George Kittle
+Eric Ebron | Darren Waller
+Trey Burton | Zach Ertz
+<div class="datatable-end"></div>
+
 ![TE-PPR](/assets/images/TE-PPR.png)
 
+<div class="datatable-begin"></div>
+Predicted Tier 1 Players (No Particular Order)    | Top N Players Ordered
+------------------------------------------------- | ---------------------
+Travis Kelce | Travis Kelce     
+Zach Ertz | George Kittle
+George Kittle | Darren Waller
+Eric Ebron | Zach Ertz
+Trey Burton | Mark Andrews
+<div class="datatable-end"></div>
 
 [My twitter]: https://twitter.com/ViralVis
